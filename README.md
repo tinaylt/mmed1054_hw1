@@ -1,6 +1,8 @@
 # We are Hot Pick!
 Welcome to our readme profile! 
+
 ##Tina Yam
+
 **Hobbies:**
 Watch TV series, Hiking, Explore the world, Cooking, Music, etc...
 
